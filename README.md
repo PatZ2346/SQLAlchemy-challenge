@@ -1,4 +1,4 @@
-# SQLAlchemy Climate Analysis and API (SurfsUp)  
+# SQLAlchemy-challenge  
 Assignment 10
   
 ## Overview  
