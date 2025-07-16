@@ -1,4 +1,5 @@
 # SQLAlchemy Climate Analysis and API (SurfsUp)  
+Assignment 10
   
 ## Overview  
 This project performs a climate analysis of Honolulu, Hawaii, using SQLAlchemy, Pandas, Matplotlib, and Flask. The analysis includes precipitation and temperature data exploration followed by designing a Flask API to provide this climate data.  
